@@ -1,0 +1,5 @@
+betweenness&effort: WilcoxonResult(statistic=22.0, pvalue=1.493563929839868e-05)
+pagerank&effort: WilcoxonResult(statistic=24.0, pvalue=1.798848069179905e-05)
+degree&effort: WilcoxonResult(statistic=8.0, pvalue=3.882182386060857e-06)
+effortcore&effort: WilcoxonResult(statistic=11.0, pvalue=5.216493447033368e-06)
+effortcore&degree: WilcoxonResult(statistic=226.0, pvalue=0.8936443871266052)
